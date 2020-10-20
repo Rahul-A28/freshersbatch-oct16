@@ -1,4 +1,4 @@
 HTML
 CSS
-JAVASCRIPT
+Minor changes made from master branch
 Adding second time in master branch
