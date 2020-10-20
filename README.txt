@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 made minor changes from master branch
 CSS
 Minor changes made from master branch
